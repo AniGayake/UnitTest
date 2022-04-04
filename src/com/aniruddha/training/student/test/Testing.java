@@ -26,7 +26,7 @@ class Testing {
 	 
 	@Test
 	 void testGradeC() {
-		 assertEquals(s1.calculateGrade(), "C");
+		 assertEquals(s2.calculateGrade(), "C");
 	 }
  
 }
